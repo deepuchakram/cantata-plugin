@@ -15,7 +15,7 @@ public class CantataRunTestBuilderTest {
     @Rule
     public JenkinsRule jenkins = new JenkinsRule();
 
-    final String name = "Bobby";
+    final String name = "Deepu";
 
     
 
